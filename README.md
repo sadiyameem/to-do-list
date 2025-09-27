@@ -9,7 +9,7 @@ This is a simple and interactive to-do list web app built with HTML, CSS and Jav
 - Task counter with completed and pending
 
 # Motivation
-I made this because I wanted to create something that can be helpful for me and others to stay organized and on top of the tthings that need to be done.
+I made this because I wanted to create something that can be helpful for me and others to stay organized and on top of the things that need to be done.
 
 # Challenges and Learning
 I learned how to make a functional app will learning HTML, CSS and Javascript.
