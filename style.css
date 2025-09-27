@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+.container {
+    background-color: white;
+    padding: 15px;
+    width: 90%;
+    max-width: 500px;
+    margin: 0 auto;
+    border: 1px solid lightblue;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#taskInputContainer {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+#taskInput {
+    flex: 1;
+    padding: 5px;
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+#addBtn {
+    padding: 5px 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    background-color: darkorange;
+    color: white;
+}
+
+#taskList {
+    padding: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+    padding: 5px;
+    border: 1px solid lightgray;
+    background-color: #f9f9f9;
+    border-radius: 3px;
+}
+
+.doneBtn {
+    background-color: green;
+    color: white;
+}
+
+.deleteBtn {
+    background-color: red;
+    color: white;
+}
+
+li span {
+    flex: 1;
+}
+
+li button {
+    margin-left: 8px;
+    padding: 2px 5px;
+    font-size: 12px;
+}
+
+.completed {
+    text-decoration: line-through;
+    background-color: lightblue;
+}
+
+#clearAllBtn {
+    background-color: purple;
+    color: white;
+}
+
+button:hover {
+    opacity: 0.8;
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+
+#taskCount {
+    font-size: 16px;
+    color: black;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+
