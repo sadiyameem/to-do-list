@@ -14,3 +14,6 @@ I made this because I wanted to create something that can be helpful for me and 
 # Challenges and Learning
 I learned how to make a functional app will learning HTML, CSS and Javascript.
 The challenging part was making this interactive.
+
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
