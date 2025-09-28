@@ -5,8 +5,9 @@ This is a simple and interactive to-do list web app built with HTML, CSS and Jav
 
 # Features
 - Add new tasks
-- buttons such as (add, clear, done and delete)
+- buttons such as (add, clear all, done and delete)
 - Task counter with completed and pending
+- By clicking done it highlights the task which indicates that it has been completed
 
 # Motivation
 I made this because I wanted to create something that can be helpful for me and others to stay organized and on top of the things that need to be done.
